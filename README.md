@@ -1,0 +1,2 @@
+# Optim.-of-radio-channel-parameters-of-an-SDR-system-under-conditions-of-multipath-signal-attenuation
+Research on noise immunity and optimization of radio channel parameters of an SDR system under conditions of multipath signal attenuation. Tack to research:Develop a software model of a radio communication line in the Python environment, simulate data transmission with different types of modulation QPSK, 16-QAM over a channel with Rician fading 
